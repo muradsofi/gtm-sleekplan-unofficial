@@ -1,6 +1,6 @@
 # Sleekplan Tag (unofficial)
 
-This repository contains an unofficial Google Tag Manager template for integrating the Sleekplan feedback widget. Since Sleekplan doesn’t offer an official GTM template, this community-supported solution lets you load the widget, update user data, and add metadata.
+This repository contains an unofficial [Google Tag Manager](https://tagmanager.google.com/#/home) template for integrating the [Sleekplan](https://sleekplan.com/) feedback widget. Since Sleekplan doesn’t offer an official GTM template, this community-supported solution lets you load the widget, update user data, and add metadata.
 
 ## Features
 
@@ -12,7 +12,7 @@ This repository contains an unofficial Google Tag Manager template for integrati
 ## Installation
 
 1. Export the template from this repository (`template.tpl`).
-2. Import it into your Google Tag Manager container as a custom template.
+2. Import it into your [Google Tag Manager](https://tagmanager.google.com/#/home) container as a custom template.
 3. Configure the fields as needed.
 4. Publish your container.
 
