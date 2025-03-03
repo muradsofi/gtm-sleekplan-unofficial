@@ -1,7 +1,7 @@
 homepage: "https://github.com/muradsofi/gtm-sleekplan-unofficial"
 documentation: "https://github.com/muradsofi/gtm-sleekplan-unofficial/blob/main/README.md"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567a51a
+  - sha: b499cb080dae612f691b14321129f4488f44af54
     changeNotes: Initial release
 
 categories:
